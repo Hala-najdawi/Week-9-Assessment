@@ -35,3 +35,5 @@ const tasks=[
     title:"watch moving"
 },
 ]
+//NODE:
+//console.log(_dirname,_filename)
